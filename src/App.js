@@ -1,6 +1,6 @@
 import './App.css';
 import Nav from './header/header';
-import Nf_ori from './nf_original';
+import Nf_ori from './nf_original/nf_original';
 import Pop from './popular_on_netflix/pop_nf';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <>
       <Nav/>
       <Nf_ori/>
-      {/* <Pop/> */}
+      <Pop/>
     </>  
   );
 }
