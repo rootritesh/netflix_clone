@@ -1,0 +1,22 @@
+.nf-or{
+    position: fixed;
+    padding-top: 10px;
+    padding-left: 50px;
+    height: 200px;
+    width: 600px;
+    /* border: 1px solid red; */
+}
+
+.h1_nf_or{
+    color:white;
+    font-size: 50px;
+    padding-bottom: 0px;
+}
+.para1{
+    color: white;
+    font-size: 20px;
+
+}
+.watch_now{
+    color: white;
+}

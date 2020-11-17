@@ -1,5 +1,6 @@
 .navbar_main{
     font-family: 'Ubuntu';
+    position: sticky;
  height: 60px;
  background-color: black;
 }

@@ -1,11 +1,14 @@
 import './App.css';
-import Para from './demo';
-import Nav from './header';
+import Nav from './header/header';
+import Nf_ori from './nf_original';
+import Pop from './popular_on_netflix/pop_nf';
 
 function App() {
   return (
     <>
       <Nav/>
+      <Nf_ori/>
+      {/* <Pop/> */}
     </>  
   );
 }
