@@ -18,7 +18,7 @@
 .pop_nf_h3{
     color: white;
     font-size: 20px;
-    padding-top: 40px;
+    padding-top: 50px;
     padding-left: 50px;
 }
 .pop_name{
@@ -49,4 +49,9 @@
 .pop_link:hover{
     border: 1px solid white;
     /* box-shadow: 2px 2px 2px 2px red; */
+}
+.btn1{
+    background-color: white;
+    color: black;
+    
 }
