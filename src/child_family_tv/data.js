@@ -32,7 +32,7 @@ const Data=[
         {
             name: 'The InBESTigators',
             image: 'https://occ-0-4744-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQWkHo79NsJHBjCS3b3KRWNMfpTam6Z2yluYpmBMp347InwTZK4h1MZZeJE_zs9vwopWeaYKHbnvCdbzHcr6fOpQuilhW5ULDzcGAvH72Y90dFu_PyKUQyTO29Pk.jpg?r=8ab',
-            link: 'netflix.com/in/title/80243216'
+            link: 'https://www.netflix.com/in/title/80243216'
         },
         {
             name: 'Anne with an E',

@@ -45,9 +45,9 @@ const Data=[
         link: 'https://www.netflix.com/in/title/70178217'
     },
     {
-        name: 'Shadowhunters: The Mortal Instruments',
-        image: 'https://occ-0-4744-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZ780etMYvEcisvDLbDLrQ3M4ww5ECwZuIeaX0KjUAtdyGbhpC7qHVIoP2KifZIAX8SLCkjIlCyezwHRpVkgcyGMfoptngmn-KFjvYvIynUhlXQVGngohKsajvxb.jpg?r=cba',
-        link: 'https://www.netflix.com/in/title/80084447'
+        name: 'Away',
+        image: 'https://occ-0-4744-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABei6exMKaaWDXFursgyxaNPrvikFEG0O9y85aOZs05mqRODMfnOu7B-v0S_nj_iHaoFxoJk6-YqDAyZX88ptqRE0F-_JDkfXzSKhNGkYi1C7oVHY9vGFVDmW032p.jpg?r=984',
+        link: 'https://www.netflix.com/in/title/80214512'
     },
     {
         name: 'Ozark',
