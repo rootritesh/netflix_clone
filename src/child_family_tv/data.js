@@ -30,10 +30,40 @@ const Data=[
             link: 'https://www.netflix.com/in/title/80174285'
         },
         {
-            name: '',
-            image: '',
-            link: ''
+            name: 'The InBESTigators',
+            image: 'https://occ-0-4744-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQWkHo79NsJHBjCS3b3KRWNMfpTam6Z2yluYpmBMp347InwTZK4h1MZZeJE_zs9vwopWeaYKHbnvCdbzHcr6fOpQuilhW5ULDzcGAvH72Y90dFu_PyKUQyTO29Pk.jpg?r=8ab',
+            link: 'netflix.com/in/title/80243216'
         },
+        {
+            name: 'Anne with an E',
+            image: 'https://occ-0-4744-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABftHtVFw4Q04LmVNcjyFSYBUWufxlGUGozBhMZBNO10zXXftmgr-x_TvsC0gw1IbAzIxx06taQ1JItvH3FSrSeN0tQR1we0eJYyPNS5j4WPkPJ5zD66TQcDRrm6t.jpg?r=3e6',
+            link: 'https://www.netflix.com/in/title/80136311'
+        },
+        {
+            name: 'Pup Academy',
+            image: 'https://occ-0-4744-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQuT76HBuE0OHeoaoXe6-kvZ7AMfGl-SMBAWUxzOkGAXXLCMPAMXlb3TCliAmPfMjXseNKBuXq1TFbJdCHbnRm640-zS9a1DfIxO0bg8CKmTnYOLOfr8hvXwIC15.jpg?r=7ca',
+            link: 'https://www.netflix.com/in/title/81040639'
+        },
+        {
+            name: 'The Last Kids on Earth',
+            image: 'https://occ-0-4744-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaNrZEsE40xyALIzSyvCAccnMkOGdpY8Tl1utOqvSwPFeD_ZL1A2Ve8TZnRn4CbteJjfYWv26zQmubPCbHacLOfn5otT_Gkd7U6PAkcUpZhKZgfo1IUj9aPBScJ-.jpg?r=e11',
+            link: 'https://www.netflix.com/in/title/80219119'
+        },
+        {
+            name: 'A Series of Unfortunate Events',
+            image: 'https://occ-0-4744-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSH7s_Co7B-bh49HRw0bmmCZ2eMHoIO-RSYj_8v0b8nZ5K7jw9NQfOCzHGhYHcMymqR5S-QKY8ioI55WeEv2Bn4-xI2XMMSW62zS0WpDQVQk8Nv8OdOlTaR0ypPk.jpg?r=213',
+            link: 'https://www.netflix.com/in/title/80050008'
+        },
+        {
+            name: 'Project Mc²',
+            image: 'https://occ-0-4744-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSSunB8sQYZQ5KaDjHT0XphOXaX-eyqopvBt9GOVRtor8lWuAtGHdJ92idsGgpIhevHlQlYAt2gqZXR-KLlFHilzvSxFD63ZuvsiBUwXS2q44wQOw-3rkrUzf5Ll.jpg?r=a69',
+            link: 'https://www.netflix.com/in/title/80058852'
+        },
+        {
+            name: 'The New Legends of Monkey',
+            image: 'https://occ-0-4744-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABelRf2zxgH2jFjPY2myjD_eEZKXCKFMfkLVRUvsqfPlK3_One3Q7CxkxIf1Zsn874STsbKVAj1k5UOthplB1uQZpNt8pY6ugfJKfFzMk0M3LrKKyS5Kg_Nja1zDp.jpg?r=396',
+            link: 'https://www.netflix.com/in/title/80184682'
+        }
         
     
 

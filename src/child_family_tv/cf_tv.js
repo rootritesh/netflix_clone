@@ -2,9 +2,15 @@ import React from 'react';
 import './style.css';
 import Data from './data';
 import Card from './card';
-import CarouselSlider from 'react-carousel-slider';
+import Carousel from "react-elastic-carousel";
 
-
+const breakPoints = [
+    { width: 1, itemsToShow: 1 , pagination: false},
+    { width: 0, itemsToShow: 2, itemsToScroll: 2 , pagination: false},
+    { width: 0, itemsToShow: 3 , pagination: false},
+    { width: 0, itemsToShow: 5 , pagination: false}
+  ];
+  
 
 // var mydata=Data.map((val)=>{
 //     return (
@@ -27,6 +33,8 @@ function Cf_tv(){
             </div>
                 
                 <div className="pop_main">
+                <Carousel breakPoints={breakPoints}>
+
                 <Card
                 name={Data[0].name}
                 imgs={Data[0].image}
@@ -59,7 +67,7 @@ function Cf_tv(){
                 />
                 
                     
-                {/* <Card
+                <Card
                 name={Data[7].name}
                 imgs={Data[7].image}
                 link={Data[7].link}
@@ -88,8 +96,9 @@ function Cf_tv(){
                 name={Data[12].name}
                 imgs={Data[12].image}
                 link={Data[12].link}
-                />  */}
+            /> 
                 
+                </Carousel>
                 
 
                 </div>

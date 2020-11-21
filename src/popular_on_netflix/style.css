@@ -32,7 +32,8 @@
     justify-content: center;
 }
 .pop_link{
-    margin: 10px;
+    /* border: 1px solid yellow; */
+    margin-top:  40px;
     /* padding: 50px; */
     /* margin: 50px; */
     
@@ -45,13 +46,14 @@
 .pop_main{
     display: flex;
     flex-direction: row;
+    /* border: 1px solid red; */
 }
 .pop_link:hover{
-    border: 1px solid white;
+    /* border: 1px sonpm slid white; */
     /* box-shadow: 2px 2px 2px 2px red; */
 }
 .btn1{
     background-color: white;
     color: black;
-    
+
 }

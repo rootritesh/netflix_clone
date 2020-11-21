@@ -18,10 +18,10 @@ import Carousel from "react-elastic-carousel";
 //     );
 // })
 const breakPoints = [
-    { width: 1, itemsToShow: 1 },
-    { width: 0, itemsToShow: 2, itemsToScroll: 2 },
-    { width: 0, itemsToShow: 3 },
-    { width: 0, itemsToShow: 5 }
+    { width: 1, itemsToShow: 1 , pagination: false},
+    { width: 0, itemsToShow: 2, itemsToScroll: 2 , pagination: false},
+    { width: 0, itemsToShow: 3 , pagination: false},
+    { width: 0, itemsToShow: 5 , pagination: false}
   ];
   
 
@@ -37,7 +37,7 @@ function Pop(){
             </div>
                 
                 <div className="pop_main">
-                <Carousel breakPoints={breakPoints}>
+                <Carousel  breakPoints={breakPoints} pagination="false">
                 
 
                 <Card
