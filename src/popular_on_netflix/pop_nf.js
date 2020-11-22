@@ -39,7 +39,7 @@ function Pop(){
                 <div className="pop_main">
                 <Carousel  breakPoints={breakPoints} pagination="false">
                 
-
+                
                 <Card
                 name={Data[0].name}
                 
