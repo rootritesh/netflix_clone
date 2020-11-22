@@ -1,8 +1,4 @@
 .pop_nef{
-    /* position: block; */
-    /* display: flex; */
-    /* align-items: flex-start; */
-    /* flex-direction: row; */
     flex: auto;
     /* justify-content: flex-start; */
     color: white;

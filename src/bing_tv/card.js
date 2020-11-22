@@ -2,7 +2,7 @@ import React from 'react';
 import Data from './data';
 
 
-function Card(props) {
+function Card(props) { 
     return(
         <div className="pop_nef">
             <div className="pop_item">
