@@ -1,7 +1,7 @@
 .foot_main{
     color:  rgb(161, 161, 161);
     margin-top: 70px;
-    /* border: 1px solid red; */
+    
     display: flex;
     width: 60%;
     flex-direction: row;
